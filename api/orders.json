@@ -1,0 +1,64 @@
+{
+    "orders": [
+        {
+            "id": 456345,
+            "date": "Feb 02, 2024 at 8:32 PM",
+            "status": "shipping",
+            "total": 20.98,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Aloe Vera",
+                    "quantity": 1,
+                    "price": 9.99
+                },
+                {
+                    "id": 2,
+                    "name": "Haworthia",
+                    "quantity": 1,
+                    "price": 10.99
+                }
+            ]
+        },
+        {
+            "id": 456346,
+            "date": "Feb 07, 2024 at 8:32 PM",
+            "status": "delivered",
+            "total": 20.98,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Aloe Vera",
+                    "quantity": 1,
+                    "price": 9.99
+                },
+                {
+                    "id": 2,
+                    "name": "Haworthia",
+                    "quantity": 1,
+                    "price": 10.99
+                }
+            ]
+        },
+        {
+            "id": 456347,
+            "date": "Feb 07, 2024 at 8:32 PM",
+            "status": "canceled",
+            "total": 20.98,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Aloe Vera",
+                    "quantity": 1,
+                    "price": 9.99
+                },
+                {
+                    "id": 2,
+                    "name": "Haworthia",
+                    "quantity": 1,
+                    "price": 10.99
+                }
+            ]
+        }
+    ]
+}

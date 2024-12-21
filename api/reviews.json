@@ -1,0 +1,52 @@
+{
+    "reviews": [
+        {
+            "id": 1,
+            "name": "Isabella Thompson",
+            "rating": 5,
+            "date": "23 Mar",
+            "photo": "https://george-fx.github.io/everbloom/assets/users/02.jpg",
+            "comment": "I've never felt more confident during my workouts until I tried FlexFit Training Shoes. They allow me to push myself to the limit every time."
+        },
+        {
+            "id": 2,
+            "name": "Lucas Mitchell",
+            "rating": 5,
+            "date": "23 Mar",
+            "photo": "https://george-fx.github.io/everbloom/assets/users/03.jpg",
+            "comment": "FlexFit Training Shoes are a game-changer! As someone who spends hours in the gym, I appreciate the durability and comfort they offer."
+        },
+        {
+            "id": 3,
+            "name": "Jasmine Rodriguez",
+            "rating": 5,
+            "date": "23 Mar",
+            "photo": "https://george-fx.github.io/everbloom/assets/users/04.jpg",
+            "comment": "I've tried numerous training shoes, but none compare to FlexFit. The support and flexibility they offer are unparalleled."
+        },
+        {
+            "id": 4,
+            "name": "Aidan Foster",
+            "rating": 5,
+            "date": "23 Mar",
+            "photo": "https://george-fx.github.io/everbloom/assets/users/05.jpg",
+            "comment": "I've tried numerous training shoes, but none compare to FlexFit. The support and flexibility they offer are unparalleled."
+        },
+        {
+            "id": 5,
+            "name": "Savannah Campbell",
+            "rating": 5,
+            "date": "23 Mar",
+            "photo": "https://george-fx.github.io/everbloom/assets/users/06.jpg",
+            "comment": "I've been a loyal customer of FlexFit Training Shoes for years now, and they never disappoint. The quality  worth every penny."
+        },
+        {
+            "id": 6,
+            "name": "Xavier Bennett",
+            "rating": 5,
+            "date": "23 Mar",
+            "photo": "https://george-fx.github.io/everbloom/assets/users/07.jpg",
+            "comment": "As a professional athlete, I demand the best from my gear, and FlexFit Training Shoes deliver. They offer superior performance and durability."
+        }
+    ]
+}

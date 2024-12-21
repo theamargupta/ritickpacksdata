@@ -1,0 +1,22 @@
+{
+    "promocodes": [
+        {
+            "id": 1,
+            "code": "20plants",
+            "discount": 20,
+            "expiry": "Dec 31, 2024"
+        },
+        {
+            "id": 2,
+            "code": "25%fridaysale",
+            "discount": 25,
+            "expiry": "Dec 31, 2024"
+        },
+        {
+            "id": 3,
+            "code": "10%herbs24",
+            "discount": 10,
+            "expiry": "Dec 31, 2024"
+        }
+    ]
+}

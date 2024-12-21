@@ -1,0 +1,402 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Peace Lily",
+      "colors": [
+        {
+          "id": 1,
+          "name": "White",
+          "code": "#FFFFFF"
+        },
+        {
+          "id": 2,
+          "name": "Tropical Indigo",
+          "code": "#AB86FB"
+        },
+        {
+          "id": 3,
+          "name": "Medium Sky Blue",
+          "code": "#99EDFF"
+        },
+        {
+          "id": 4,
+          "name": "Lavender Rose",
+          "code": "#FF95E1"
+        },
+        {
+          "id": 5,
+          "name": "Light Salmon Pink",
+          "code": "#FF8C8C"
+        },
+        {
+          "id": 6,
+          "name": "Yellow (Crayola)",
+          "code": "#FFF176"
+        },
+        {
+          "id": 7,
+          "name": "Topaz",
+          "code": "#FFC179"
+        }
+      ],
+      "image": "https://george-fx.github.io/everbloom/assets/products/01_01.jpg",
+      "potTypes": [
+        "Plastic"
+      ],
+      "categories": [
+        "Flowering Plants"
+      ],
+      "plantTypes": [
+        "Flowering"
+      ],
+      "price": "18.49",
+      "images": [
+        "https://george-fx.github.io/everbloom/assets/products/01_01.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/01_02.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/01_03.jpg"
+      ],
+      "rating": 5,
+      "quantity": null,
+      "description": "Immerse yourself in the delicate charm of pink orchids. Radiating a sense of femininity and grace, these exquisite blossoms captivate with their soft, pastel hues. Each petal unfurls like a whisper of beauty, creating a visual symphony that speaks...",
+      "promotion": "Enjoy 30% Off On Select Items!",
+      "isNew": false,
+      "isTop": true,
+      "isFeatured": false,
+      "oldPrice": null,
+      "isBestSeller": true
+    },
+    {
+      "id": 2,
+      "name": "Mint",
+      "colors": [
+        {
+          "id": 1,
+          "name": "White",
+          "code": "#FFFFFF"
+        },
+        {
+          "id": 2,
+          "name": "Tropical Indigo",
+          "code": "#AB86FB"
+        },
+        {
+          "id": 3,
+          "name": "Medium Sky Blue",
+          "code": "#99EDFF"
+        },
+        {
+          "id": 4,
+          "name": "Lavender Rose",
+          "code": "#FF95E1"
+        },
+        {
+          "id": 5,
+          "name": "Light Salmon Pink",
+          "code": "#FF8C8C"
+        },
+        {
+          "id": 6,
+          "name": "Yellow (Crayola)",
+          "code": "#FFF176"
+        },
+        {
+          "id": 7,
+          "name": "Topaz",
+          "code": "#FFC179"
+        }
+      ],
+      "image": "https://george-fx.github.io/everbloom/assets/products/02_01.jpg",
+      "potTypes": [
+        "Ceramic"
+      ],
+      "categories": [
+        "Herbs & Edibles"
+      ],
+      "plantTypes": [
+        "Herbs And Edibles"
+      ],
+      "price": "8.99",
+      "images": [
+        "https://george-fx.github.io/everbloom/assets/products/02_01.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/02_02.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/02_03.jpg"
+      ],
+      "rating": 5,
+      "quantity": null,
+      "description": "Immerse yourself in the delicate charm of pink orchids. Radiating a sense of femininity and grace, these exquisite blossoms captivate with their soft, pastel hues. Each petal unfurls like a whisper of beauty, creating a visual symphony that speaks...",
+      "promotion": "Exclusive Weekend Deal! Save 20%!",
+      "isNew": true,
+      "isTop": false,
+      "isFeatured": true,
+      "oldPrice": null,
+      "isBestSeller": false
+    },
+    {
+      "id": 3,
+      "name": "Orchids",
+      "colors": [
+        {
+          "id": 1,
+          "name": "White",
+          "code": "#FFFFFF"
+        },
+        {
+          "id": 2,
+          "name": "Tropical Indigo",
+          "code": "#AB86FB"
+        },
+        {
+          "id": 3,
+          "name": "Medium Sky Blue",
+          "code": "#99EDFF"
+        },
+        {
+          "id": 4,
+          "name": "Lavender Rose",
+          "code": "#FF95E1"
+        },
+        {
+          "id": 5,
+          "name": "Light Salmon Pink",
+          "code": "#FF8C8C"
+        },
+        {
+          "id": 6,
+          "name": "Yellow (Crayola)",
+          "code": "#FFF176"
+        },
+        {
+          "id": 7,
+          "name": "Topaz",
+          "code": "#FFC179"
+        }
+      ],
+      "image": "https://george-fx.github.io/everbloom/assets/products/03_01.jpg",
+      "potTypes": [
+        "Terracotta"
+      ],
+      "categories": [
+        "Flowering Plants"
+      ],
+      "plantTypes": [
+        "Flowering"
+      ],
+      "price": "29.99",
+      "images": [
+        "https://george-fx.github.io/everbloom/assets/products/03_01.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/03_02.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/03_03.jpg"
+      ],
+      "rating": 5,
+      "quantity": null,
+      "description": "Immerse yourself in the delicate charm of pink orchids. Radiating a sense of femininity and grace, these exquisite blossoms captivate with their soft, pastel hues. Each petal unfurls like a whisper of beauty, creating a visual symphony that speaks...",
+      "promotion": "Enjoy 30% Off On Select Items!",
+      "isNew": false,
+      "isTop": true,
+      "isFeatured": false,
+      "oldPrice": null,
+      "isBestSeller": true
+    },
+    {
+      "id": 4,
+      "name": "Aloe Vera",
+      "colors": [
+        {
+          "id": 1,
+          "name": "White",
+          "code": "#FFFFFF"
+        },
+        {
+          "id": 2,
+          "name": "Tropical Indigo",
+          "code": "#AB86FB"
+        },
+        {
+          "id": 3,
+          "name": "Medium Sky Blue",
+          "code": "#99EDFF"
+        },
+        {
+          "id": 4,
+          "name": "Lavender Rose",
+          "code": "#FF95E1"
+        },
+        {
+          "id": 5,
+          "name": "Light Salmon Pink",
+          "code": "#FF8C8C"
+        },
+        {
+          "id": 6,
+          "name": "Yellow (Crayola)",
+          "code": "#FFF176"
+        },
+        {
+          "id": 7,
+          "name": "Topaz",
+          "code": "#FFC179"
+        }
+      ],
+      "image": "https://george-fx.github.io/everbloom/assets/products/04_01.jpg",
+      "potTypes": [
+        "Ceramic"
+      ],
+      "categories": [
+        "Succulents & Cacti"
+      ],
+      "plantTypes": [
+        "Succulents And Cacti"
+      ],
+      "price": "9.99",
+      "images": [
+        "https://george-fx.github.io/everbloom/assets/products/04_01.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/04_02.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/04_03.jpg"
+      ],
+      "rating": 5,
+      "quantity": null,
+      "description": "Immerse yourself in the delicate charm of pink orchids. Radiating a sense of femininity and grace, these exquisite blossoms captivate with their soft, pastel hues. Each petal unfurls like a whisper of beauty, creating a visual symphony that speaks...",
+      "promotion": "Enjoy 30% Off On Select Items!",
+      "isNew": false,
+      "isTop": true,
+      "isFeatured": false,
+      "oldPrice": "12.99",
+      "isBestSeller": true
+    },
+    {
+      "id": 5,
+      "name": "Lavender",
+      "colors": [
+        {
+          "id": 1,
+          "name": "White",
+          "code": "#FFFFFF"
+        },
+        {
+          "id": 2,
+          "name": "Tropical Indigo",
+          "code": "#AB86FB"
+        },
+        {
+          "id": 3,
+          "name": "Medium Sky Blue",
+          "code": "#99EDFF"
+        },
+        {
+          "id": 4,
+          "name": "Lavender Rose",
+          "code": "#FF95E1"
+        },
+        {
+          "id": 5,
+          "name": "Light Salmon Pink",
+          "code": "#FF8C8C"
+        },
+        {
+          "id": 6,
+          "name": "Yellow (Crayola)",
+          "code": "#FFF176"
+        },
+        {
+          "id": 7,
+          "name": "Topaz",
+          "code": "#FFC179"
+        }
+      ],
+      "image": "https://george-fx.github.io/everbloom/assets/products/05_01.jpg",
+      "potTypes": [
+        "Ceramic"
+      ],
+      "categories": [
+        "Herbs & Edibles"
+      ],
+      "plantTypes": [
+        "Herbs And Edibles"
+      ],
+      "price": "24.00",
+      "images": [
+        "https://george-fx.github.io/everbloom/assets/products/05_01.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/05_02.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/05_03.jpg"
+      ],
+      "rating": 5,
+      "quantity": null,
+      "description": "Immerse yourself in the delicate charm of pink orchids. Radiating a sense of femininity and grace, these exquisite blossoms captivate with their soft, pastel hues. Each petal unfurls like a whisper of beauty, creating a visual symphony that speaks...",
+      "promotion": "Exclusive Weekend Deal! Save 20%!",
+      "isNew": true,
+      "isTop": false,
+      "isFeatured": true,
+      "oldPrice": null,
+      "isBestSeller": false
+    },
+    {
+      "id": 6,
+      "name": "Aakdo",
+      "colors": [
+        {
+          "id": 1,
+          "name": "White",
+          "code": "#FFFFFF"
+        },
+        {
+          "id": 2,
+          "name": "Tropical Indigo",
+          "code": "#AB86FB"
+        },
+        {
+          "id": 3,
+          "name": "Medium Sky Blue",
+          "code": "#99EDFF"
+        },
+        {
+          "id": 4,
+          "name": "Lavender Rose",
+          "code": "#FF95E1"
+        },
+        {
+          "id": 5,
+          "name": "Light Salmon Pink",
+          "code": "#FF8C8C"
+        },
+        {
+          "id": 6,
+          "name": "Yellow (Crayola)",
+          "code": "#FFF176"
+        },
+        {
+          "id": 7,
+          "name": "Topaz",
+          "code": "#FFC179"
+        }
+      ],
+      "image": "https://george-fx.github.io/everbloom/assets/products/06_01.jpg",
+      "potTypes": [
+        "Iron"
+      ],
+      "categories": [
+        "Indoor",
+        "Air-Purifying"
+      ],
+      "plantTypes": [
+        "Indoor",
+        "Air-Purifying"
+      ],
+      "price": "85.00",
+      "images": [
+        "https://george-fx.github.io/everbloom/assets/products/06_01.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/06_02.jpg",
+        "https://george-fx.github.io/everbloom/assets/products/06_03.jpg"
+      ],
+      "rating": 5,
+      "quantity": null,
+      "description": "Air purifying indoor plants that can survive in any kind of atmosphere, the best part of this plant is to survive even with in a room like a pigstay with very less maintenance. Just need to water once in 5 years no need of sunlight or anything else.",
+      "promotion": "Enjoy 40% Off On Select Items!",
+      "isNew": true,
+      "isTop": true,
+      "isFeatured": true,
+      "oldPrice": "90.00",
+      "isBestSeller": true
+    }
+  ]
+}
