@@ -3,37 +3,37 @@
         {
             "id": 1,
             "name": "Indoor",
-            "image": "https://george-fx.github.io/everbloom/assets/categories/01.jpg",
+            "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/01.jpg",
             "qty": 36
         },
         {
             "id": 2,
             "name": "Outdoor",
-            "image": "https://george-fx.github.io/everbloom/assets/categories/02.jpg",
+            "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/02.jpg",
             "qty": 621
         },
         {
             "id": 3,
             "name": "Air-Purifying",
-            "image": "https://george-fx.github.io/everbloom/assets/categories/03.jpg",
+            "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/03.jpg",
             "qty": 150
         },
         {
             "id": 4,
             "name": "Succulents & Cacti",
-            "image": "https://george-fx.github.io/everbloom/assets/categories/04.jpg",
+            "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/04.jpg",
             "qty": 54
         },
         {
             "id": 5,
             "name": "Flowering Plants",
-            "image": "https://george-fx.github.io/everbloom/assets/categories/05.jpg",
+            "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/05.jpg",
             "qty": 112
         },
         {
             "id": 6,
             "name": "Herbs & Edibles",
-            "image": "https://george-fx.github.io/everbloom/assets/categories/06.jpg",
+            "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/06.jpg",
             "qty": 98
         }
     ]
