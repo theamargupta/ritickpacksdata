@@ -4,13 +4,13 @@
             "id": 1,
             "name": "Meesho",
             "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/01.jpg",
-            "qty": 36
+            "qty": 4
         },
         {
             "id": 2,
             "name": "Flipkart",
             "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/02.jpg",
-            "qty": 621
+            "qty": 6
         },
         {
             "id": 3,
