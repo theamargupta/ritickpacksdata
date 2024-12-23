@@ -2,37 +2,37 @@
     "categories": [
         {
             "id": 1,
-            "name": "Indoor",
+            "name": "Meesho",
             "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/01.jpg",
             "qty": 36
         },
         {
             "id": 2,
-            "name": "Outdoor",
+            "name": "Flipkart",
             "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/02.jpg",
             "qty": 621
         },
         {
             "id": 3,
-            "name": "Air-Purifying",
+            "name": "Amazon",
             "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/03.jpg",
             "qty": 150
         },
         {
             "id": 4,
-            "name": "Succulents & Cacti",
+            "name": "Tape",
             "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/04.jpg",
             "qty": 54
         },
         {
             "id": 5,
-            "name": "Flowering Plants",
+            "name": "Plain White",
             "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/05.jpg",
             "qty": 112
         },
         {
             "id": 6,
-            "name": "Herbs & Edibles",
+            "name": "Boxes",
             "image": "https://theamargupta.github.io/ritickpacksdata/assets/categories/06.jpg",
             "qty": 98
         }
